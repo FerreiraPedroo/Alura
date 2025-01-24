@@ -12,15 +12,17 @@
 
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
 
-- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
-
 - [Desenvolvedores](#desenvolvedores)
+
+<br/>
 
 ## Descrição
 
 <p align="justify">
 Amigo secreto, neste desafio você deve adicionar amigos e depois sortear aleatoriamente um amigo da lista.
 </p>
+
+<br/>
 
 ## Funcionalidades
 
@@ -35,18 +37,11 @@ Amigo secreto, neste desafio você deve adicionar amigos e depois sortear aleato
 <br/>
 
 ## Ferramentas utilizadas
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"> 
+<div style="display:flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-</a>
- 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-</a>
-
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-</a>
+</div>
 
 <br/>
 
