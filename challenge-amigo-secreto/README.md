@@ -31,7 +31,7 @@ Neste desafio você deve adicionar amigos e depois sortear aleatoriamente um ami
 <br/>
 
 <p align="center">
-<img src="/assets/amigo-secreto.gif">
+![amigo-secreto](https://github.com/user-attachments/assets/a17a695e-87fe-47fb-801c-8c5ce14d3121)
 </p>
 
 <br/>
