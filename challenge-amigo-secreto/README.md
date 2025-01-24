@@ -19,7 +19,7 @@
 ## Descrição
 
 <p align="justify">
-Neste desafio você deve adicionar amigos e depois sortear aleatoriamente um amigo da lista.
+Amigo secreto, neste desafio você deve adicionar amigos e depois sortear aleatoriamente um amigo da lista.
 </p>
 
 ## Funcionalidades
@@ -30,9 +30,7 @@ Neste desafio você deve adicionar amigos e depois sortear aleatoriamente um ami
 
 <br/>
 
-<p align="center">
 ![amigo-secreto](https://github.com/user-attachments/assets/a17a695e-87fe-47fb-801c-8c5ce14d3121)
-</p>
 
 <br/>
 
